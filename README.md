@@ -1,9 +1,9 @@
-### Hi there, I'm Wojciech - aka [wojtkolos][website] 👋 
+### Hi there, I'm Wojciech - ([wojtkolos][website]) 👋 
 
 [![Website](https://img.shields.io/website?label=wojtkolos.pl&style=for-the-badge&url=https%3A%2F%2Fwojtkolos.pl)](https://wojtkolos.pl)
 
 
-## I'm a ICT && Sound Engineer Student!!
+## I'm a ICT && Sound Engineer Student!
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
