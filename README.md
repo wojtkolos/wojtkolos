@@ -6,7 +6,7 @@
 ## I'm a ICT && Sound Engineer Student!!
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play double bass
 
 ### Connect with me:
