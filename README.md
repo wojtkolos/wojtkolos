@@ -42,9 +42,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+    [![]](https://github.com/wojtkolos/github-stats/blob/master/generated/overview.svg)
 
   <img align="left" alt="wojtkolos's GitHub Stats" src="https://raw.githubusercontent.com/wojtkolos/github-stats-transparent/output/generated/overview.svg" />
-  <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/wojtkolos/github-stats-transparent/output/generated/overview.svg" />
 </details>
 
 [website]: https://wojtkolos.pl
