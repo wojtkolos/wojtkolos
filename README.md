@@ -23,6 +23,7 @@
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/cplusplus-plain.svg" />][github]
 [<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/wordpress-plain.svg" />][github]
+[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/php-plain.svg" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/html5-original.svg" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/css3-original.svg" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/javascript-original.svg" />][github]
