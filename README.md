@@ -22,12 +22,12 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/cplusplus-plain.svg" />][github]
-[<img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/nestjs-icon.svg" />][github]
-[<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/react-icon.svg" />][github]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/kubernetes-icon.svg" />][github]
-[<img align="left" alt="Openshift" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/openshift-icon.svg" />][github]
-[<img align="left" alt="Prisma" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/prisma-icon.svg" />][github]
-[<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/postgresql-icon.svg" />][github]
+[<img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/nestjs-icon.png" />][github]
+[<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/react-icon.png" />][github]
+[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/kubernetes-icon.png" />][github]
+[<img align="left" alt="Openshift" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/openshift-icon.png" />][github]
+[<img align="left" alt="Prisma" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/prisma-icon.png" />][github]
+[<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/postgresql-icon.png" />][github]
 [<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/wordpress-plain.svg" />][github]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/php-plain.svg" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/wojtkolos/wojtkolos/main/icons/html5-original.svg" />][github]
